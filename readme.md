@@ -1,2 +1,3 @@
-## blissman.github.io
-This is a static site for Bliss Man. Not sure what I'm going to use it for yet . . . 
+# blissman.ca
+
+This is the coming soon page for blissman.ca. It'll probably be mostly cats when it's done.
