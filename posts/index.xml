@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Cat Life</title>
-    <link>http://blissman.ca/posts/</link>
+    <link>https://blissman.ca/posts/</link>
     <description>Recent content in Posts on The Cat Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jul 2018 18:06:48 -0400</lastBuildDate>
     
-	<atom:link href="http://blissman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blissman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Amazing World of Nature</title>
-      <link>http://blissman.ca/posts/the-amazing-world-of-nature/</link>
+      <link>https://blissman.ca/posts/the-amazing-world-of-nature/</link>
       <pubDate>Fri, 13 Jul 2018 18:06:48 -0400</pubDate>
       
-      <guid>http://blissman.ca/posts/the-amazing-world-of-nature/</guid>
+      <guid>https://blissman.ca/posts/the-amazing-world-of-nature/</guid>
       <description>I met the shyest little cutie today. I barely managed to snap a few shots before she ran by me!</description>
     </item>
     
     <item>
       <title>Welcome!</title>
-      <link>http://blissman.ca/posts/welcome/</link>
+      <link>https://blissman.ca/posts/welcome/</link>
       <pubDate>Tue, 10 Jul 2018 21:41:36 -0400</pubDate>
       
-      <guid>http://blissman.ca/posts/welcome/</guid>
+      <guid>https://blissman.ca/posts/welcome/</guid>
       <description>Welcome to my site! I know what you&amp;rsquo;re wondering: yes, it&amp;rsquo;ll mostly be cat photos. I hope you&amp;rsquo;re into that.</description>
     </item>
     

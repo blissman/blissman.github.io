@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blissman.ca/posts/the-amazing-world-of-nature/</loc>
+    <loc>https://blissman.ca/posts/the-amazing-world-of-nature/</loc>
     <lastmod>2018-07-13T18:06:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blissman.ca/posts/welcome/</loc>
+    <loc>https://blissman.ca/posts/welcome/</loc>
     <lastmod>2018-07-10T21:41:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blissman.ca/categories/</loc>
+    <loc>https://blissman.ca/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blissman.ca/posts/</loc>
+    <loc>https://blissman.ca/posts/</loc>
     <lastmod>2018-07-13T18:06:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blissman.ca/tags/</loc>
+    <loc>https://blissman.ca/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blissman.ca/</loc>
+    <loc>https://blissman.ca/</loc>
     <lastmod>2018-07-13T18:06:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
