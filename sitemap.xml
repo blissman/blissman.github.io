@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blissman.ca/posts/an-indoor-cat-in-the-forest/</loc>
+    <lastmod>2018-07-18T14:05:29-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blissman.ca/posts/the-amazing-world-of-nature/</loc>
     <lastmod>2018-07-13T18:06:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,7 +31,7 @@
   
   <url>
     <loc>https://blissman.ca/posts/</loc>
-    <lastmod>2018-07-13T18:06:48-04:00</lastmod>
+    <lastmod>2018-07-18T14:05:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -37,7 +44,7 @@
   
   <url>
     <loc>https://blissman.ca/</loc>
-    <lastmod>2018-07-13T18:06:48-04:00</lastmod>
+    <lastmod>2018-07-18T14:05:29-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
