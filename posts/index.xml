@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Cat Life</title>
@@ -6,10 +6,15 @@
     <description>Recent content in Posts on The Cat Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jul 2018 14:05:29 -0400</lastBuildDate>
-    
-	<atom:link href="https://blissman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 19 Apr 2021 20:17:07 -0400</lastBuildDate><atom:link href="https://blissman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The New Neighbours</title>
+      <link>https://blissman.ca/posts/the-new-neighbours/</link>
+      <pubDate>Mon, 19 Apr 2021 20:17:07 -0400</pubDate>
+      
+      <guid>https://blissman.ca/posts/the-new-neighbours/</guid>
+      <description>With the pandemic in full swing, and the Canadian housing market hotter than ever, there&amp;rsquo;s been a flurry of action in my neighbourhood as houses get bought and sold at a dizzying rate. A common concern with new neighbours coming in is whether they&amp;rsquo;ll disrupt your way of life. Will they be noisy? Will they be rude? Will they have a tacky sense of design? Sometimes though, you get lucky.</description>
+    </item>
     
     <item>
       <title>An Indoor Cat in the Forest</title>
